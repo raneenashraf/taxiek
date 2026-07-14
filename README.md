@@ -1,4 +1,3 @@
-# taxiek
 # 🚖 Taxiek Trip Pricing App
 
 <p align="center">
